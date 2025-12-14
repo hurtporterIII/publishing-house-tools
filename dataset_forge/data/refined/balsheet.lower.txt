@@ -1,0 +1,137 @@
+  
+ 
+  
+  
+ 
+ 
+ _____________________   
+ _____________________   
+ _____________________   
+  _____________________   
+ _____________________   
+ _____________________   
+ _____________________   
+ _____________________   
+ _____________________   
+  _____________________   
+ _____________________  
+  ___________________  
+ 
+ _____________________  
+  _____________________  
+ _____________________  
+  _____________________  
+   ___________________  
+ 
+ _____________________   
+ _____________________   
+ _____________________   
+ _____________________   
+  _____________________   
+ _____________________   
+ _____________________   
+ _____________________   
+  ___________________  
+  ___________________  
+   
+   
+balance sheet
+ 
+company: _________________________________________________________________________________________
+ 
+as of: _____________________________________________________________________________________________
+ 
+assets: 
+current assets: 
+cash on hand 
+cash in banks* 
+accounts receivable 
+less allowance for doubtful accts. (enter as negative number) 
+due from others 
+notes receivable 
+inventory 
+prepaid expenses 
+prepaid federal income taxes 
+other _______________________________ 
+other _______________________________ 
+total current assets: 
+fixed assets: 
+real estate owned and leasehold improvements
+ 
+less accumulated depreciation (enter as negative number)
+ 
+machinery, equipment, automobiles, furniture, etc.
+ 
+less accumulated depreciation (enter as negative number)
+ 
+total fixed assets: 
+other assets: 
+other receivables/due from others 
+long term investments 
+goodwill 
+organizational costs 
+less accumulated amortization (enter as negative number) 
+long term portion of notes receivable 
+**prepaid funeral trust 
+other: ________________________________ 
+total other assets: 
+total assets 
+* excluding prepaid funeral trusts 
+** historically we have seen financials with and without this included   
+ 
+ 
+ _____________________  
+ _____________________  
+  _____________________  
+ _____________________  
+ _____________________  
+ _____________________  
+ _____________________  
+ _____________________  
+  ___________________  
+ 
+ _____________________  
+ _____________________  
+ _____________________  
+ _____________________  
+ _____________________  
+  ___________________  
+  ___________________  
+ 
+ _____________________  
+ _____________________  
+  _____________________  
+ _____________________  
+ _____________________  
+  ___________________  
+   _________________  
+ 
+balance sheet
+ 
+liabilities: 
+current liabilities: 
+accounts payable 
+accrued payables 
+commissions payable 
+taxes payable 
+current portion of long term debt 
+interest payable 
+other: _______________________________ 
+other: _______________________________ 
+total current liabilities: 
+long term liabilities: 
+notes/loans payable long term portion 
+deferred income/gains 
+**prepaid funeral trust 
+other: _______________________________ 
+other: _______________________________ 
+total long term liabilities: 
+total liabilities 
+equity 
+capital stock 
+paid in capital 
+treasury stock (enter as negative number) 
+retained earnings 
+net income 
+total equity 
+total liabilities and equity 

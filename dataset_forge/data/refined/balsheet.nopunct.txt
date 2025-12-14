@@ -1,0 +1,137 @@
+  
+ 
+  
+  
+ 
+ 
+    
+    
+    
+     
+    
+    
+    
+    
+    
+     
+   
+    
+ 
+   
+    
+   
+    
+     
+ 
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+   
+   
+Balance Sheet
+ 
+Company 
+ 
+As of 
+ 
+ASSETS 
+Current Assets 
+Cash on Hand 
+Cash in Banks 
+Accounts Receivable 
+Less Allowance for Doubtful Accts enter as negative number 
+Due from Others 
+Notes Receivable 
+Inventory 
+Prepaid Expenses 
+Prepaid Federal Income Taxes 
+Other  
+Other  
+Total Current Assets 
+Fixed Assets 
+Real Estate Owned and Leasehold Improvements
+ 
+Less Accumulated Depreciation enter as negative number
+ 
+Machinery Equipment Automobiles Furniture etc
+ 
+Less Accumulated Depreciation enter as negative number
+ 
+Total Fixed Assets 
+Other Assets 
+Other ReceivablesDue from Others 
+Long Term Investments 
+Goodwill 
+Organizational Costs 
+Less Accumulated Amortization enter as negative number 
+Long Term Portion of Notes Receivable 
+Prepaid Funeral Trust 
+Other  
+Total Other Assets 
+TOTAL ASSETS 
+ Excluding prepaid funeral trusts 
+ Historically we have seen financials with and without this included   
+ 
+ 
+   
+   
+    
+   
+   
+   
+   
+   
+    
+ 
+   
+   
+   
+   
+   
+    
+    
+ 
+   
+   
+    
+   
+   
+    
+     
+ 
+Balance Sheet
+ 
+LIABILITIES 
+Current Liabilities 
+Accounts Payable 
+Accrued Payables 
+Commissions Payable 
+Taxes Payable 
+Current Portion of Long Term Debt 
+Interest Payable 
+Other  
+Other  
+Total Current Liabilities 
+Long Term Liabilities 
+NotesLoans Payable Long Term Portion 
+Deferred IncomeGains 
+Prepaid Funeral Trust 
+Other  
+Other  
+Total Long Term Liabilities 
+TOTAL LIABILITIES 
+EQUITY 
+Capital Stock 
+Paid In Capital 
+Treasury Stock enter as negative number 
+Retained Earnings 
+Net Income 
+TOTAL EQUITY 
+TOTAL LIABILITIES AND EQUITY 
